@@ -98,7 +98,11 @@ header .navigation li a{
 /* menu fin */
 
 /* inicio */
-
+.ihome{
+    color: #6C1960;
+    font-size: 2em;
+    margin-top: 15px;
+}  
 .secinicio{
     padding: 10%;
     margin-bottom: 30px;
